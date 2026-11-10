@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, sou o Rodrigo 😊
 
-<!--
-**rpatriciocarvalho/rpatriciocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de software backend com foco em **Java e Spring Boot**. Desenvolvo APIs e sistemas institucionais de ponta a ponta, da arquitetura ao deploy em Kubernetes.
 
-Here are some ideas to get you started:
+**Stack principal:** Java, Spring Boot, Spring Security, Spring Batch, PostgreSQL, Docker, Kubernetes/Helm, GitLab CI/CD, Datadog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Em estudo:** Apache Kafka, serviços AWS (EKS, SQS/SNS, MSK) e Terraform
+
+**Dados e IA:** MBA em Ciência de Dados e IA (FIAP), certificação IBM Data Science Professional
+
+**Formação:** Bacharelado em Física (UERJ), com iniciação científica em computação de alto desempenho
+
+💼 LinkedIn: [linkedin.com/in/rpatriciocarvalho](https://linkedin.com/in/rpatriciocarvalho)
+📝 Blog: [rodrigopatricio.com](https://rodrigopatricio.com)
